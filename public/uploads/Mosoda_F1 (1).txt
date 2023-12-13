@@ -1,0 +1,14 @@
+Mosoda program I.
+Egy mosoda ruhákat vesz be. Ha kimossa őket, akkor tiszták lesznek. 
+A ruhákat a tulajdonosuk nevével azonosítja a mosoda, 
+ki is lehet venni a ruhát (név alapján) a mosodából! 
+
+Technikai specifikáció: 
+A mosoda tömbben tárolja a ruhákat! 
+A mosoda alapértelmezetten 5 ruha befogadására alkalmas, 
+de ettől eltérőt is megadhatunk! Nem kell optimalizálni, 
+hogy a kiadott ruha helyére vegyünk be új ruhát, 
+folyamatosan rakjuk a tömbbe a ruhákat! 
+A kiadásnál is csak annyit kell megcsinálni, 
+hogy ne legyen már a mosodában a ruha! 
+Jelezzük, ha megtelt a mosoda, de máshogy nem kell foglalkozni ezzel az esettel!
